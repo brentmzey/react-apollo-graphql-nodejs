@@ -1,2 +1,3 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+# NodeJS GraphQL with Apollo Client
+
+Example JavaScript GraphQL client consuming a GraphQL API tied to a MongoDB store
